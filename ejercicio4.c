@@ -62,7 +62,7 @@ int main()
     return 0;
 }
 
-
+//hacer un ordenar generico asi no lo hago 2 funciones para ordenar
 void ordenarVectorValue(Moda v[], int n)
 {
     int i, j;
